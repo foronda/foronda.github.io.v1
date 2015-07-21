@@ -7,8 +7,8 @@
 layout: frontpage
 title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
-widget-1:
+   image_fullwidth: "header-blog.jpg"
+<!-- widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
     text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
@@ -31,4 +31,4 @@ widget-3:
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div> -->

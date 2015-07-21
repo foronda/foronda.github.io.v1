@@ -66,13 +66,13 @@
 #    url: "/roadmap/"
 
 - title: Blog
-  url: "/"
+  url: "/blog"
   side: left
   dropdown:
   - title: Blog
-    url: "/"
+    url: "/blog"
   - title: "Blog Archive"
-    url: "/archive/"
+    url: "/blog/archive/"
 
 #- title: "Search"
 #  url: "/search/"

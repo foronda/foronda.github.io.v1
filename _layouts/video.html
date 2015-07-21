@@ -5,9 +5,6 @@ format: video
 <div class="row">
 	<div class="small-12 columns">
 		<article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
-			<div class="flex-video">
-				{{ page.iframe}}
-			</div>
 
 			<div class="row">
 				<div class="medium-offset-2 medium-8 end columns">
@@ -32,6 +29,9 @@ format: video
 					{% endif %}
 				</div><!-- /.medium-8.columns -->
 			</div><!-- /.row -->
+			<div class="flex-video">
+				{{ page.iframe}}
+			</div>
 		</article>
 
 	</div><!-- /.small-12.columns -->

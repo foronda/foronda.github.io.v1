@@ -9,7 +9,7 @@ tags:
     - post format
 categories:
     - design
-iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/rld97UeDm-s' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='640' height='480' src='https://www.youtube.com/embed/rld97UeDm-s' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -24,4 +24,4 @@ video:
     embedURL: "https://www.youtube.com/embed/rld97UeDm-s"
     contentURL: "https://www.youtube.com/watch?v=rld97UeDm-s"
     thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
----
+---	

@@ -8,26 +8,11 @@ layout: frontpage
 title: "Just another IT geek's blog"
 header: no
 
-widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-    image: unsplash_9-302x182.jpg
-widget-2:
-    title: "Destiny Video 1"
-    url: 'https://youtu.be/rld97UeDm-s'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
-widget-3:
-    title: "Download Theme"
-    url: 'https://github.com/Phlow/feeling-responsive'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
-    image: github-303x182.jpg
+iframe: "<iframe width='970' height='546' src='//youtu.be/rld97UeDm-s' frameborder='0' allowfullscreen></iframe>"
+video:
+    embedURL: "https://youtu.be/rld97UeDm-s"
+    contentURL: "https://youtu.be/rld97UeDm-s"
+    thumbnailUrl: "https://youtu.be/rld97UeDm-s"
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://youtu.be/rld97UeDm-s" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+## Just a video on Destiny...

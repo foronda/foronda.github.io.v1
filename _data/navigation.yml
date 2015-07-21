@@ -1,10 +1,6 @@
-- title: Resume
-  url: http://brylianforonda.com/resume
-  side: left
-
 - title: Home
- url: "/"
- side: left
+  url: "/"
+  side: left
 
 #- title: Getting Started
 #  url: "/getting-started/"
@@ -73,6 +69,10 @@
     url: "blog"
   - title: "Blog Archive"
     url: "blog/archive/"
+
+- title: Resume
+  url: http://brylianforonda.com/resume
+  side: right
 
 #- title: "Search"
 #  url: "/search/"

@@ -6,4 +6,5 @@
 #
 layout: frontpage
 title: "Just another IT geek's blog"
+header: no
 ---

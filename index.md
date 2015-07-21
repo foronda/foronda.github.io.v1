@@ -6,5 +6,6 @@
 #
 layout: frontpage
 title: "Just another IT geek's blog"
-header: no
+header:
+   image_fullwidth: "header-blog.jpg"
 ---

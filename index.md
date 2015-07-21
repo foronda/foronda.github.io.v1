@@ -1,18 +1,27 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
 layout: video
-title: "Just another IT geek's blog"
+show_meta: false
+title: "Skirmish"
+subheadline: "Destiny"
 header: no
-
-iframe: "<iframe width='970' height='546' src='//youtu.be/rld97UeDm-s' frameborder='0' allowfullscreen></iframe>"
+teaser: "Just another day in the lab."
+tags:
+    - post format
+categories:
+    - design
+iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/rld97UeDm-s' frameborder='0' allowfullscreen></iframe>"
+#
+# These video settings are totally optional. It's only purpose
+# is SEO, so that videos show up in Google hopefully with a 
+# thumbnail.
+# More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
+#
+# embedURL – A URL pointing to a player for the specific video.
+# contentURL – A URL pointing to the actual video media file
+# thumbnailUrl – A URL pointing to the video thumbnail image file.
+#
 video:
-    embedURL: "https://youtu.be/rld97UeDm-s"
-    contentURL: "https://youtu.be/rld97UeDm-s"
-    thumbnailUrl: "https://youtu.be/rld97UeDm-s"
+    embedURL: "https://www.youtube.com/embed/rld97UeDm-s"
+    contentURL: "https://www.youtube.com/watch?v=rld97UeDm-s"
+    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
 ---
-
-## Just a video on Destiny...

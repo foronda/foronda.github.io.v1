@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Serialize JSON Data for Bootstrap-treeview
 subheadline: ASP.NET
-meta_description:
 teaser: Dynamically populate bootstrap-treeview JSON data using ASP.NET JsonConvert.
+breadcrumb: true
 categories: 
     - webdev
 tags:

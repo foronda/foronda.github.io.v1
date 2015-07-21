@@ -35,7 +35,7 @@ improve_content: https://github.com/foronda/blog/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://brylianforonda.com/blog/images/"
+urlimg: "http://brylianforonda.com/images/"
 
 
 # Logo size is 600x80 pixels

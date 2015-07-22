@@ -1,34 +1,21 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
-layout: frontpage
-title: "Brylian Foronda - Just another blog."
+layout: page-fullwidth
+title: "ALOHA"
+subheadline: ""
 header:
-   image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-widget-1:
-    title: "Online resume!"
-    url: 'http://brylianforonda.com/resume'
-    text: 'Highly motivated IT professional and web application developer with a missino to work for todays top technology companies where I can utilize my knowledge and skill to solve real-world problems.'    
-    image: unsplash_9-302x182.jpg
-widget-2:
-    title: "Destiny - Skirmish"
-    url: 'https://www.youtube.com/watch?v=rld97UeDm-s'
-    text: 'Skirmish on Asylum. When the Hawkmoon was actually better than the Thorn...'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://brylianforonda.com/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
-widget-3:
-    title: "About Me"
-    url: 'http://brylianforonda.com'
-    text: 'Part IT, Part Web Developer.'
-    image: github-303x182.jpg
+   image_fullwidth: "maui_header.jpg"
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+ <img class="b30" src="{{ site.url }}/images/about_pic.jpg" alt="">
+</div><!-- /.medium-4.columns -->
 
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+My name is <b>Bryl</b>ian Foronda. I was born in the Philippines and moved to Maui, Hawaii when I was eight. In 2009, I graduated with an A.S. degree in Electronics and Computer Engineering Technology at the University of Hawaii - Maui College. Then in 2012, I graduated with a B.S. of Computer Engineering at University of Hawaii at Manoa. I am currently working full time as an IT Manager at the Ka'anapali Beach Hotel and part-time as a Web Application Developer for RCUH. When I am not programming and implementing different application frameworks and server technologies, I am probably at the gym or sleeping. 
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/rld97UeDm-s" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
+This blog will mostly contain posts regarding IT, and maybe a little travel. Browse around and maybe you will learn a trick or two!
+
+> It’s not that I’m so smart, it’s just that I stay with problems longer. 
+<cite>Albert Einstein</cite>
 </div>
+</div><!-- /row -->

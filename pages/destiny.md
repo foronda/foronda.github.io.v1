@@ -21,8 +21,8 @@ header: no
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
-## Destiny - Crucible Skirmish   {#formats}
-
+#### Crucible Skirmish   {#formats}
+Back when I thought the Hawkmoon was a better gun than the Thorn...
 <div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/rld97UeDm-s" frameborder="0" allowfullscreen></iframe>
 </div>

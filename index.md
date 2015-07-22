@@ -3,7 +3,6 @@ layout: video
 show_meta: false
 title: "Skirmish"
 subheadline: "Destiny"
-header: no
 teaser: "Just another day in the lab."
 tags:
     - post format

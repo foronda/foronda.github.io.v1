@@ -21,8 +21,8 @@ description: "With coffee, you can do anything!"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://brylianforonda.com"
-#url: "http://localhost:4000/blog"
+#url: "http://brylianforonda.com"
+url: "http://localhost:4000"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -35,8 +35,8 @@ improve_content: https://github.com/foronda/blog/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://brylianforonda.com/images/"
-
+#urlimg: "http://brylianforonda.com/images/"
+urlimg: "http://localhost:4000/images/"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

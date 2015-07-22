@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
-   image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+   image_fullwidth: "maui_header.jpg"
 widget-1:
     title: "Online resume!"
     url: 'http://brylianforonda.com/resume'

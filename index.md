@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+title: "Brylian Foronda - Just another blog."
 header:
    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 widget-1:

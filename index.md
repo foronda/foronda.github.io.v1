@@ -9,20 +9,20 @@ title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 widget-1:
-    title: "About Me!"
-    url: 'http://brylianforonda.com'
-    text: 'Part IT, Part Web Developer.'    
-    image: github-303x18.jpg
-widget-2:
     title: "Online resume!"
     url: 'http://brylianforonda.com/resume'
     text: 'Highly motivated IT professional and web application developer with a missino to work for todays top technology companies where I can utilize my knowledge and skill to solve real-world problems.'    
     image: unsplash_9-302x182.jpg
-widget-3:
+widget-2:
     title: "Destiny - Skirmish"
     url: 'https://www.youtube.com/watch?v=rld97UeDm-s'
     text: 'Skirmish on Asylum. When the Hawkmoon was actually better than the Thorn...'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://brylianforonda.com/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+widget-3:
+    title: "About Me"
+    url: 'http://brylianforonda.com'
+    text: 'Part IT, Part Web Developer.'
+    image: github-303x182.jpg
 ---
 
 

@@ -10,8 +10,8 @@ header:
    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 widget-1:
     title: "About"
-    url: 'http://brylianforonda.com
-    text: 'Part IT, Part Web Developer. '    
+    url: 'http://brylianforonda.com'
+    text: 'Part IT, Part Web Developer.'    
     image: github-303x18.jpg
 widget-2:
     title: "Online resume!"

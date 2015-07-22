@@ -17,7 +17,6 @@ This blog will mostly contain posts regarding IT, and maybe a little travel. Bro
 
 > It’s not that I’m so smart, it’s just that I stay with problems longer. 
 <cite>Albert Einstein</cite>
->There are 10 types of people in the world: those who understand binary, and those who don't.
-<cite></cite>
+
 </div>
 </div><!-- /row -->

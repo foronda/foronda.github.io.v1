@@ -9,9 +9,9 @@ title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 widget-1:
-    title: "Online Resume!"
+    title: "Check out my online resume!"
     url: 'http://brylianforonda.com/resume'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    text: 'Highly motivated IT professional and web application developer with a missino to work for todays top technology companies where I can utilize my knowledge and skill to solve real-world problems.'    
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Destiny - Skirmish"

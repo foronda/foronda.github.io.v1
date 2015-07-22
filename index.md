@@ -9,14 +9,14 @@ title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
+    title: "Check out my Resume!"
+    url: 'http://brylianforonda.com/resume'
     text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
     image: unsplash_9-302x182.jpg
 widget-2:
-    title: "Bringing it back, Destiny Skirmish"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: 'Skirmish on Asylym. When the Hawkmoon was actually better than the Thorn...'
+    title: "Destiny - Skirmish"
+    url: 'https://www.youtube.com/watch?v=rld97UeDm-s'
+    text: 'Skirmish on Asylum. When the Hawkmoon was actually better than the Thorn...'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://brylianforonda.com/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Download Theme"

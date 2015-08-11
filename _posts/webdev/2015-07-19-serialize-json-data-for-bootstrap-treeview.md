@@ -1,18 +1,20 @@
 ---
-layout: page-fullwidth
-title: Serialize JSON Data for Bootstrap-treeview
+layout: "page-fullwidth"
+title: "Serialize JSON Data for Bootstrap-treeview"
 subheadline: ASP.NET
-teaser: Dynamically populate bootstrap-treeview JSON data using ASP.NET JsonConvert.
+teaser: "Dynamically populate bootstrap-treeview JSON data using ASP.NET JsonConvert."
 breadcrumb: true
 categories: 
-    - webdev
-tags:
-    - code snippet
-    - c#
-    - web application
-    - asp.net
-    - bootstrap
+  - webdev
+tags: 
+  - code snippet
+  - "c#"
+  - web application
+  - asp.net
+  - bootstrap
+published: true
 ---
+
 
 ### Overview
 Dynamically populate the [Bootstrap-treeview](https://github.com/jonmiles/bootstrap-treeview) data from a LINQ-to-SQL datacontext in an ASP.NET C# code behind. The function serialize db.text fields a LINQ query of two tables; one parent, the other child, ultimately merging the serialized a string into JSON parsable string. Function is then called by the front-end javascript to reconvert the serialized string using jQuery.ParseJson() method, becoming the data for the bootstrap treeview.
@@ -165,6 +167,8 @@ var $tree = $('#treeview12').treeview({
             });
 {% endhighlight %}
 
+#### Current Issues
+Having trouble passing selected tree nodes back to the code behind. 
 
 ---
 

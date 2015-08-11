@@ -23,13 +23,12 @@ Change the backup location of iTunes using Windows mklink junction command.
 2. Create the new folder location i.e (D: iTunes Backup)
 3. Run the junction command.
 
-{% highlight css %}
-    mklink /j current target
-{% endhighlight %}
-{% highlight css %}
-    mklink /j "%appdata%\Apple Computer\MobileSync\Backup" "D:\iTunes Backup"
-{% endhighlight %}
-
+``` batch
+mklink /j current target
+```
+``` batch
+mklink /j "%appdata%\Apple Computer\MobileSync\Backup" "D:\iTunes Backup
+```
 ----------
 
 ###References:

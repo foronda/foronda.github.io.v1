@@ -1,7 +1,7 @@
 ---
 layout: "page-fullwidth"
 title: "Unlock Windows 10 God Mode?"
-subheadline: ASP.NET
+subheadline: Windows 10
 teaser: "Shortcut to a list of every configurable items in windows 10."
 breadcrumb: true
 categories: 
@@ -16,12 +16,26 @@ published: true
 
 ### Windows 10 God Mode
 
-Found this article online regarding God Mode in Windows 10. At first I thought it was some joke but after implementation, I found that it is real! 
-
+Found this article online [1] regarding God Mode in Windows 10. At first I thought it was some joke but after implementation, I found that it is real! 
+***
 ### Unlock God Mode You Ask?
-Create a folder on your desktop and name it - GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+Create a folder on your desktop and name it
+```batch
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+```
+In fact, you can name it anything you want. For example
+```batch
+HelloWorld.{ED7BA470-8E54-465E-825C-99712043E01C}
+```
+##### "GodMode" Shortcut
 
----
+![Desktop Folder](https://dl.dropboxusercontent.com/u/33327425/images/it/godmode.png)
 
-References
-    1. http://www.thinkcomputers.org/how-to-unlock-windows-10-god-mode/
+##### Configurable Options
+
+![Settings](https://dl.dropboxusercontent.com/u/33327425/images/it/godmode2.png)
+***
+
+##### References
+
+[1]: http://www.thinkcomputers.org/how-to-unlock-windows-10-god-mode/

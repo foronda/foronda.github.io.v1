@@ -173,4 +173,4 @@ Having trouble passing selected tree nodes back to the code behind.
 ---
 
 ###References
-    1. https://github.com/jonmiles/bootstrap-treeview
+[^1] https://github.com/jonmiles/bootstrap-treeview

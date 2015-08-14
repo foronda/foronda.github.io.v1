@@ -21,13 +21,13 @@ Found this article online [^1] regarding God Mode in Windows 10. At first I thou
 ### Unlock God Mode You Ask?
 Create a folder on your desktop and name it
 
-{% highlight batch %}
+{% highlight batchfile %}
 GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 {% endhighlight %}
 
 In fact, you can name it anything you want. For example
 
-{% highlight batch %}
+{% highlight batchfile %}
 HelloWorld.{ED7BA470-8E54-465E-825C-99712043E01C}
 {% endhighlight %}
 
@@ -42,7 +42,7 @@ ___
 
 ##### References:
 
-[^1]:http://www.thinkcomputers.org/how-to-unlock-windows-10-god-mode/
+[^1]: http://www.thinkcomputers.org/how-to-unlock-windows-10-god-mode/
 
 
 

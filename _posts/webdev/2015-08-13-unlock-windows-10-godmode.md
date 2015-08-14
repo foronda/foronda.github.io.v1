@@ -9,7 +9,7 @@ categories:
 tags: 
   -how to
   -windows 10
-  - it
+  -it
 published: true
 ---
 

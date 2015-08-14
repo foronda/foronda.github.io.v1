@@ -41,7 +41,6 @@ HelloWorld.{ED7BA470-8E54-465E-825C-99712043E01C}
 ___
 
 ##### References:
-
 [^1]: http://www.thinkcomputers.org/how-to-unlock-windows-10-god-mode/
 
 
